@@ -9,12 +9,11 @@ import Routes from "./Routes"
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
-      <Routes />
-      <ChakraProvider>
+    <ChakraProvider>
+      <Router>
         <App />
-      </ChakraProvider>
-    </Router>
+      </Router>
+    </ChakraProvider>
   </React.StrictMode>,
   document.getElementById("root"),
 )
