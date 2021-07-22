@@ -1874,6 +1874,16 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fontsource/inter@^4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/inter/-/inter-4.5.0.tgz#b99e49fa178e4086250fb3df2ed6a7366c9a0cb5"
+  integrity sha512-2efK8Ru0LkuOYrEpiHPlV02YkTdIKGbezlxVNeA8/3c+tNt7P2aQPuiYYkVy7N4GA5LWSUVcLL/91MpCIjinOw==
+
+"@fontsource/lexend-deca@^4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/lexend-deca/-/lexend-deca-4.5.0.tgz#8e6073cd8d0dc045b1f8d099da0bb3480ff13c21"
+  integrity sha512-bzXcFAvwq1g1mJSLu4MZd9ktSjiwGTrfwC4auzgcExSgop5hZA9WtTXPzFB+y2COEBXrn2hx+svA86xYn0jGEw==
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.npmjs.org/@hapi/address/-/address-2.1.4.tgz"
