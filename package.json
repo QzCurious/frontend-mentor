@@ -7,6 +7,7 @@
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@fontsource/inter": "^4.5.0",
+    "@fontsource/kumbh-sans": "^4.5.0",
     "@fontsource/lexend-deca": "^4.5.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",

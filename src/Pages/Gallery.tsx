@@ -1,5 +1,6 @@
 import { Box, Flex, Link, SimpleGrid } from "@chakra-ui/react"
 import { Link as ReactLink } from "react-router-dom"
+import ProfileCardComponentThumbnail from "../ProfileCardComponent/ProfileCardComponentThumbnail"
 import StatsPreviewCardComponentThumbnail from "../StatsPreviewCardComponent/StatsPreviewCardComponentThumbnail"
 
 const Gallery = () => {
@@ -15,6 +16,9 @@ const Gallery = () => {
       <SimpleGrid columns={[1, null, 2, null, 3]} spacing={6}>
         <Link as={ReactLink} to="/stats-preview-card-component">
           <StatsPreviewCardComponentThumbnail />
+        </Link>
+        <Link as={ReactLink} to="/profile-card-component">
+          <ProfileCardComponentThumbnail />
         </Link>
       </SimpleGrid>
       <Box mt="auto">
